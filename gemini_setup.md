@@ -35,7 +35,7 @@ This will install the `@google/generative-ai` package.
 The Gemini API key is configured in `client/src/gemini.js`:
 
 ```javascript
-const API_KEY = "AIzaSyD0dkh9-XUsVQPLkmS6yZ6VtALhJGugj_I";
+###const API_KEY = "AIzaSyD0dkh9-XUsVQPLkmS6yZ6VtALhJGugj_I";
 ```
 
 ### Model
